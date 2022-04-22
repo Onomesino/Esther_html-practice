@@ -1,0 +1,28 @@
+.me{
+	width: 30px;
+	height: 10vh;
+	
+}
+/*.mother{
+	display: flex;
+}*/
+<link rel="stylesheet" type="css" href="v.html">
+.content{
+	display: flex;
+	align-items: 2px;
+	background-color: pink;
+	margin: 10%;
+	margin-left: 15%;
+	border: 10px;
+	width: 50%;
+	height: 50%;
+}
+.content{
+	align-items: 1px;
+	background-color: red;
+	margin: 5%;
+	margin-left: 10%;
+	border: 5px;
+	width: 25%;
+	height: 25%;
+}
